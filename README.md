@@ -2,6 +2,10 @@
 
 This Streamlit application leverages Google's GenerativeAI service (Gemini) to enable users to ask questions and get answers from uploaded PDF documents.
 
+## Run on Streamlit  
+
+You can run this app on Streamlit Server: [Chat with Multiple PDF](https://chat-multiple-documents.streamlit.app)
+
 ## 1. Features
 
 - **PDF Upload:** Upload multiple PDF documents for analysis.
